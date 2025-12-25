@@ -19,6 +19,6 @@ This repo is meant to be simple:
 I’ll keep adding more ISOs over time as I use new ones or update old ones.
 
 If something is missing or broken, that’s on me — I’ll fix it eventually 😅  
-Feel free to use anything here.
+Feel free to  create issues and use anything here.
 
 Enjoy.
