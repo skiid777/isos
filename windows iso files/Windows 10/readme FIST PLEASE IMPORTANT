@@ -1,48 +1,48 @@
-Informations:
-Windows 11 25H2 English International 64-bit ISO
 
-Official Microsoft ISO, 64-bit version.
+Windows 10 22H2 64‑bit ISO
 
-Version 25H2 – latest major update for Windows 11.
+Official Microsoft ISO, 64‑bit (x64).
 
-Language: English International (global English, not tied to one country).
+Version 22H2 – latest major Windows 10 update.
 
-Includes multiple editions: Home, Pro, Enterprise, Education.
+Includes Home, Pro, Enterprise, Education editions.
 
-ISO size: ~7 GB.
+ISO size: ~5.8 GB.
 
 Can be used for fresh installs, upgrades, or virtual machines.
 
-Contains all latest patches and security updates up to release date.
+Supports modern apps and higher RAM.
 
-System requirements:
+Windows 10 22H2 32‑bit ISO
 
-64-bit processor with 2+ cores.
+Same version 22H2, but 32‑bit (x86).
 
-4 GB+ RAM (8 GB recommended).
+ISO size: ~3.9 GB.
 
-64 GB+ storage.
+Works on older or low‑memory PCs.
 
-UEFI firmware with Secure Boot & TPM 2.0.
+Less compatible with newer apps and software.
 
-DirectX 12 compatible GPU.
+System requirements (64-bit vs 32-bit)
 
-Internet access recommended for updates and activation.
+CPU: 1 GHz+ compatible processor
 
-Key features:
+RAM: 2 GB+ (64-bit), 1 GB (32-bit)
 
-Modern Start menu and taskbar.
+Disk space: 20 GB+ (64-bit), 16 GB (32-bit)
 
-Snap layouts, virtual desktops, and multitasking improvements.
+Graphics: DirectX 9 or newer
 
-Microsoft Store for apps, games, and tools.
+Display: 800×600 minimum
 
-Built-in security: Windows Hello, BitLocker, Defender Antivirus.
+What this OS gives you
 
-Widgets, Teams integration, and updated system settings.
+Classic Windows desktop with Start menu and taskbar
 
-Supports gaming with Xbox Game Pass and DirectStorage.
+Settings, system apps, and Microsoft Store access
 
-Smooth UI, animations, and rounded corners.
+Can run most Windows software and games
 
-Compatible with most Windows 10 software and drivers.
+Works on USB install media or in virtual machines
+
+Note: Official support for Windows 10 ended in October 2025.
