@@ -1,5 +1,5 @@
 
-# isos
+# isos, and more!
 
 Yo skiid right here!
 This is my personal repository where I keep all the ISO files I use.
