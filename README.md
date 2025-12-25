@@ -16,7 +16,7 @@ This repo is meant to be simple:
 - use the ISO
 - done
 
-I’ll keep adding more ISOs over time as I use new ones or update old ones.
+I’ll keep adding more ISOs over time as I use new ones or update old ones. and track for updates once a week
 
 If something is missing or broken, that’s on me — I’ll fix it eventually 😅  
 Feel free to  create issues and use anything here.
