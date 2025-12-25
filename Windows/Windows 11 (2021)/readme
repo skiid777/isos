@@ -1,1 +1,79 @@
+Windows 11 (2021+)
 
+Overview:
+
+Latest Microsoft desktop OS, successor to Windows 10.
+
+Focuses on modern UI, productivity, and gaming.
+
+Designed for both home and business users.
+
+Feature updates: 21H2, 22H2, 25H2 (latest).
+
+Editions:
+
+Home – standard for personal PCs.
+
+Pro – adds business tools, encryption, domain join.
+
+Enterprise – for large organizations, advanced security and management.
+
+Education – for schools/universities.
+
+System Requirements:
+
+64-bit CPU, 2+ cores, 1 GHz+ clock.
+
+4 GB+ RAM (8 GB+ recommended).
+
+64 GB+ storage.
+
+UEFI firmware with Secure Boot & TPM 2.0.
+
+DirectX 12 compatible GPU.
+
+High-DPI display recommended.
+
+Key Features:
+
+Start Menu & Taskbar: Centered, simplified, widgets support.
+
+Snap Layouts & Virtual Desktops: Better multitasking.
+
+Microsoft Store: Apps, games, media, and Android apps (via Amazon Appstore).
+
+Gaming: DirectStorage, Auto HDR, Xbox Game Pass integration.
+
+Security: Windows Hello (face/fingerprint login), BitLocker, Defender Antivirus.
+
+Teams Integration: Chat & video calls built-in.
+
+Widgets: Weather, calendar, news, and custom feeds.
+
+Touch & Pen Support: Optimized for tablets and hybrid devices.
+
+Compatibility: Runs most Windows 10 apps and software.
+
+Updates: Regular feature and security updates to keep system secure.
+
+Deployment & Installation:
+
+ISO files available for all editions and languages.
+
+Can install fresh, upgrade from Windows 10, or run in virtual machines.
+
+Multiple editions included in ISO; edition choice depends on product key.
+
+Performance & UX:
+
+Faster boot and system responsiveness on modern hardware.
+
+Modern animations, rounded corners, and new sounds/UI elements.
+
+Better multitasking, improved touch and pen input, optimized for hybrid devices.
+
+Notes:
+
+Strict hardware requirements compared to Windows 10.
+
+Focused on future-proofing Windows ecosystem and cloud integration.
