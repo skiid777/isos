@@ -1,0 +1,31 @@
+**Arch Linux**
+
+Arch Linux is a lightweight, flexible, and rolling-release Linux distribution designed for users who want **full control over their system
+First released in 2002, it’s known for being minimalist and highly customizable.
+
+Key points:
+
+* Free and open-source
+* Rolling-release model (always up-to-date, no major version upgrades)
+* Minimal base system; users build their environment from scratch
+* Uses **Pacman** package manager
+* Documentation: **Arch Wiki** is one of the best Linux resources
+
+Features:
+
+* No default desktop environment (users choose their own)
+* Lightweight and fast
+* Highly customizable
+* Suitable for experienced Linux users
+
+Professional notes:
+
+* Great for learning Linux deeply
+* Preferred for custom desktops, workstations, or development setups
+* Can be stable if properly maintained, but requires regular updates and knowledge
+
+Summary:
+
+* Arch = DIY Linux for power users
+* Minimalist, flexible, bleeding-edge software
+* Best for people who want to control every aspect of their system
