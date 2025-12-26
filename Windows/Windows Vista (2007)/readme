@@ -1,1 +1,21 @@
+Windows Vista (2007)
+
+* Released: 2007
+* Based on NT 6.0 kernel
+* Editions: Home Basic, Home Premium, Business, Ultimate, Enterprise
+* Major focus on security and system stability
+* Introduced User Account Control (UAC)
+* New graphical interface: **Aero** (glass effects, animations)
+* Improved search and file indexing
+* New driver model (WDDM) for better hardware support
+* Enhanced networking and Wi-Fi management
+* Better memory and process management than XP
+* Higher hardware requirements compared to XP
+
+Professional notes:
+
+* Early versions had performance and driver compatibility issues
+* Service Packs significantly improved stability and speed
+* Laid the foundation for later systems like Windows 7
+* Rarely used today, mainly for legacy or testing purposes
 
