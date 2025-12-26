@@ -1,1 +1,43 @@
+Linux
+
+Linux is a free and open-source operating system** based on the Linux kernel, first released in 1991 by Linus Torvalds.
+
+What Linux is used for:
+
+* Servers (websites, cloud, databases)
+* Developers and programming
+* Cybersecurity and networking
+* Embedded systems (routers, smart devices)
+* Desktops and laptops (via distributions)
+
+How Linux works:
+
+* Kernel manages hardware (CPU, RAM, disks, drivers)
+* Users interact through a desktop environment or terminal
+* Software is installed via package managers, not random installers
+
+Key features:
+
+* Open source (anyone can view or modify the code)
+* Very stable and secure
+* Highly customizable
+* Efficient on both old and new hardware
+* Strong permission and user system
+
+Linux distributions (distros):
+
+* Ubuntu, Debian, Fedora, Arch, Linux Mint, Kali, etc.
+* Each distro packages the same kernel with different tools and desktops
+
+Professional notes:
+
+* Dominates servers and cloud infrastructure
+* Preferred for development and automation
+* Requires more technical knowledge than Windows for some tasks
+* Can coexist with Windows (dual-boot or virtual machines)
+
+Simple summary:
+
+* **Windows** → consumer & business desktops
+* **Linux** → servers, development, infrastructure, power users
 
