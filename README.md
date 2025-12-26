@@ -1,5 +1,5 @@
 
-# isos, and more!
+# isos, and more! (note - everything is updated once a week.)
 
 Yo skiid right here!
 This is my personal repository where I keep all the ISO files I use, and more
