@@ -1,5 +1,5 @@
 
-# isos, and more! (note - everything is updated once a week.)
+# isos, and more! - last update 26 Dec 2025 - Note: im still finishing it.
 
 Yo skiid right here!
 This is my personal repository where I keep all the ISO files I use, and more
