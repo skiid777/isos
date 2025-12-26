@@ -1,0 +1,43 @@
+**Kali Linux**
+
+Kali Linux is a **specialized Linux distribution for cybersecurity and penetration testing**, maintained by **Offensive Security**. It was first released in **2013** and is based on **Debian**.
+
+Key points:
+
+* Free and open-source
+* Designed for **security professionals**, not general desktop use
+* Comes with hundreds of security and testing tools preinstalled
+
+Primary use cases:
+
+* Penetration testing
+* Network and system security auditing
+* Digital forensics
+* Security research and training
+
+Features:
+
+* Debian-based, rolling release model
+* Large collection of security tools (network, web, wireless, forensics)
+* Supports live boot (run without installing)
+* Works on desktops, laptops, virtual machines, and ARM devices
+* Multiple desktop environments (Xfce default, GNOME, KDE)
+
+Professional notes:
+
+* Requires solid Linux and networking knowledge
+* Not recommended as a daily-use OS
+* Commonly used in labs, training environments, and security assessments
+* Widely used for certification training (e.g., OSCP)
+
+System characteristics:
+
+* Higher resource usage than lightweight distros
+* Frequent updates with new tools
+* Strong hardware and VM support
+
+Summary:
+
+* Purpose-built Linux for security testing
+* Best suited for professionals and learning environments
+* Not intended for casual or everyday computing
