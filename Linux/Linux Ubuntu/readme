@@ -1,0 +1,44 @@
+**Ubuntu Linux**
+
+Ubuntu is a **popular Linux distribution** developed by **Canonical**, first released in **2004**. It is designed to be **user-friendly**, stable, and suitable for both desktop and server use.
+
+Key points:
+
+* Based on **Debian Linux**
+* Free and open-source
+* Regular updates and strong community support
+
+Editions:
+
+* **Ubuntu Desktop** – general users, workstations
+* **Ubuntu Server** – servers and cloud systems
+* **Ubuntu LTS (Long Term Support)** – 5 years of support
+* **Ubuntu Interim releases** – 9 months of support
+
+Features:
+
+* GNOME desktop environment (default)
+* Built-in package manager (APT + Snap)
+* Strong hardware compatibility
+* Good balance between ease of use and power
+* Large software repositories
+
+Professional use:
+
+* Widely used on servers and cloud platforms
+* Common choice for development environments
+* Strong support for Docker, virtualization, and automation
+* Frequently used in education and enterprise
+
+System characteristics:
+
+* Stable kernel updates
+* Regular security patches
+* Can run on older or modern hardware
+* Easy installation and maintenance
+
+Summary:
+
+* Good entry point into Linux
+* Suitable for desktops, servers, and professional workloads
+* LTS versions recommended for production systems
