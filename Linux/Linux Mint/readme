@@ -1,0 +1,43 @@
+**Linux Mint**
+
+Linux Mint is a **desktop-focused Linux distribution** aimed at **ease of use and stability**. It is based on **Ubuntu** (and indirectly Debian) and first released in **2006**.
+
+Key points:
+
+* Free and open-source
+* Designed as a Windows-friendly Linux alternative
+* Very stable and beginner-friendly
+
+Editions:
+
+* **Cinnamon** – modern, full-featured desktop (main edition)
+* **MATE** – lightweight and traditional
+* **Xfce** – very lightweight, best for older hardware
+
+Features:
+
+* Traditional desktop layout (Start menu, taskbar, tray)
+* Strong multimedia support out of the box
+* Uses APT package management
+* Minimal preinstalled bloat
+* Long-term stability focus
+
+Professional use:
+
+* Good for office work and daily productivity
+* Suitable for older or low-spec machines
+* Low maintenance and predictable updates
+* Often used as a desktop OS in small businesses
+
+System characteristics:
+
+* Based on Ubuntu LTS releases
+* 5 years of support per version
+* Lower resource usage than Ubuntu GNOME
+* Simple update and driver management
+
+Summary:
+
+* Excellent Windows replacement for desktops
+* Stable, lightweight, and easy to maintain
+* Best choice for users who want Linux without complexity
